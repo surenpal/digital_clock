@@ -14,7 +14,7 @@ useEffect(() => {
 
   return (
     <div>
-        <h1>Digital Clock Component</h1>
+        <h1>Digital Clock by Suren</h1>
     </div>
   )
 }

@@ -1,8 +1,11 @@
+import React from 'react'
 import { useState } from 'react'
+import { useEffect } from 'react'
+import { DigitalClock } from './components/DigitalClock.jsx'
 
 function App() {
   return (
-  <div className="bg-black text-red-100 h-screen w-full "><h1>Digital clock on the way guys</h1>
+  <div>
   <DigitalClock />
   </div>
   )
